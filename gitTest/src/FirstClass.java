@@ -5,5 +5,6 @@ public class FirstClass {
         ;
         //我是最大的一个领袖
         ;
+        //我是no 1
     }
 }
