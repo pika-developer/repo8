@@ -1,1 +1,2 @@
 测试从github同步文件到gitee.txt
+ce shi cong github tongbu wenjian dao gitee.txt
